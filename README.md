@@ -1,5 +1,5 @@
 # Aryan Siddhabathula's Data Science Portfolio
-👋 Hi, I'm Aryan, a passionate Data Science graduate student at Rutgers University. I specialize in machine learning, data analytics, and optimization techniques. Explore my projects and experiences to see how I leverage data for impactful solutions.
+👋 Hi, I'm Aryan, a passionate Data Science graduate student at Rutgers University. I specialize in machine learning, data analytics, data engineering and optimization techniques. Explore my projects and experiences to see how I leverage data for impactful solutions.
 
 ## Education
 - **Rutgers University - United States of America**
