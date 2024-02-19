@@ -21,12 +21,12 @@
   - Professional Certification - Data Science, Database Management Essentials, Artificial Intelligence, Mathematical Thinking in CS, International Leader and Organizational Behavior, Software Development Processes and Methodologies, Internet of Things and Embedded Systems, The Bits and Bytes of Computer Networking
 
 ## Experience
-### Data Science Intern - Phoenix Global [May 2022 - October 2022]
+### Data Science Intern - 
 - Spearheaded Retention and Churn Analysis through cohort analysis charts, providing actionable insights into user behavior over time.
 - Executed A/B testing initiatives to optimize app interface design, resulting in a 10% increase in user engagement and a 15% improvement in retention rates.
 - Utilized machine learning algorithms for user behavior analysis.
 
-### Time Series Analyst Intern - DevTown [May 2021 - October 2021]
+### Time Series Analyst Intern - 
 - Implemented a dynamic content delivery scheduling system based on time series analysis, resulting in a 15% increase in user engagement during peak hours.
 - Implemented ARIMA models to enhance the robustness of the content delivery scheduling system.
 
