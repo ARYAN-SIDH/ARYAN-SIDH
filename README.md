@@ -3,10 +3,10 @@
 
 ## Education
 - **Rutgers University - United States of America**
-  - *Masters in Data Science*
+  - *Masters in Data Science - 4/4 GPA*
   
 - **Gandhi Institute of Technology and Management - India**
-  - *Bachelors in Computer Science*
+  - *Bachelors in Computer Science - 9.1/10 CGPA*
 
 ## Skills
 - **Programming Languages:** Python, R Programming, SQL, MongoDB/NoSQL, Scala, Git
