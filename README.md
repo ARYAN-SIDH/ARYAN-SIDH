@@ -10,7 +10,7 @@
 
 ## Skills
 - **Programming Languages:** Python, R Programming, SQL, MongoDB/NoSQL, Scala, Git
-- **Domain Knowledge:** Machine Learning, Data Analytics, Data Engineering, Deep Learning, Computer Vision, Natural Language Processing, Optimization Techniques
+- **Domain Knowledge:** Machine Learning, , Statistics, Data Analytics, Data Engineering, Deep Learning, Computer Vision, Natural Language Processing, Optimization Techniques
 - **Tools:**
   - Neural Network Frameworks: TensorFlow, TFLite, PyTorch
   - Machine Learning Algorithms: Scikit-Learn, Keras, CNNs, RNN/LSTMs
@@ -32,16 +32,26 @@
 
 ## Research
 ### "AI Enhanced Malnutrition Monitoring & Prediction"
-- Presented research findings at the NCRIMA on Artificial Intelligence, Data Science 2023.
-- Engineered data integration pipelines for health records, dietary habits, and socio-economic indicators.
-- Utilized advanced machine learning algorithms and neural network frameworks for real-time monitoring and prediction of malnutrition.
+- Presented research findings at the NCRIMA on Artificial Intelligence, Data Science 2023
+- Engineered data integration pipelines, amalgamating health records, dietary habits, and socio-economic indicators.
+- Utilized advanced machine learning algorithms and implemented neural network frameworks to develop models for real-time monitoring and prediction of malnutrition in diverse populations.
+- Engineered models capable of processing diverse data types, including numerical health metrics and textual dietary information.
+- Incorporated computer vision techniques and integrated voice agents, enhancing the application's capabilities for a comprehensive and hands-free enhanced health assessment.
+- Optimized edge deployment for smartphones using Raspberry Pi. Leveraged Raspberry Pi's computing capabilities to enhance machine learning model efficiency, ensuring optimal performance.
+- Applied edge computing optimization techniques to support the application's scalability on Raspberry Pi.
 
 ## Projects
 - **Algorithmic Financial Forecasting:** Unraveling Market Dynamics through Advanced LSTM
 - **Social Harmony Recommender:** A Recommendation System for Social Connections on Digital Platforms
 - **Enhancing Software Quality:** Defect Prediction with Bidirectional LSTM and Oversampling Techniques
+- **Customizable Data Processing with Dynamic MapReduce Engine**
+- **Exploring Neuro-structural Dynamics:** Age-Related Changes and Alzheimer's Disease Patterns - Statistics
 
-
+## Professional Development
+- Enhanced understanding of Generative AI for public sector applications through hands-on labs and demos at **"Public
+Sector Generative AI Live + Labs"** (Google Cloud, New York City, February 28, 2024).
+- **Data Science Summit 2023** (Jersey City, New Jersey, November 2023) - Participated in cutting-edge data science
+research and development, exploring emerging technologies and applications.
 
 <!---
 ARYAN-SIDH/ARYAN-SIDH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
