@@ -11,10 +11,9 @@
 ## Skills
 - **Programming Languages:** Python, R Programming, SQL, MongoDB/NoSQL, Scala, Git
 - **Domain Knowledge:** Machine Learning, , Statistics, Data Analytics, Data Engineering, Deep Learning, Computer Vision, Natural Language Processing, Optimization Techniques
-- **Tools:**
-  - Neural Network Frameworks: TensorFlow, TFLite, PyTorch
-  - Machine Learning Algorithms: Scikit-Learn, Keras, CNNs, RNN/LSTMs
-  - Data Visualization: Holoviews, Bokeh, Matplotlib
+- **Tools and FrameWorks/ Libraries:**
+  - Machine Learning - Scikit-Learn, Keras, TensorFlow, TFLite, PyTorch, CNNs, RNN/LSTMs
+  - Data Analytics and Visualization - Pandas, NumPy, Holoviews, Bokeh, Matplotlib; IBM SPSS Statistics, Tableau
   - Data Engineering/Cloud Computing: Microsoft Azure, Apache Spark, Apache TVM, Raspberry PI
 - **Soft Skills:** Communication, Interpersonal Skills, Presentation Skills, Time Management, Organizational, Adaptability, Cross-Disciplinary Learning, Critical Thinking, Collaboration and Teamwork, Continuous Learning
 - **Certifications:**
@@ -22,9 +21,9 @@
 
 ## Experience
 ### Data Science Intern - 
-- Spearheaded Retention and Churn Analysis through cohort analysis charts, providing actionable insights into user behavior over time.
-- Executed A/B testing initiatives to optimize app interface design, resulting in a 10% increase in user engagement and a 15% improvement in retention rates.
-- Utilized machine learning algorithms for user behavior analysis.
+- Spearheaded Retention and Churn Analysis through cohort analysis charts, providing actionable insights into user behavior over time. Managed data on new users, returning users, and churned users.
+- Executed A/B testing initiatives to optimize app interface design. Performed statistical analyses to determine the significance of observed differences in average user time spent on the app.
+- Utilized machine learning algorithms to analyze user behavior and preferences, employed RandomizedPCA for efficient approximation of principal components, and applied kernel transformations to uncover non-linear boundaries, resulting in a 10% increase in user engagement and a 15% improvement in retention rates.
 
 ### Time Series Analyst Intern - 
 - Implemented a dynamic content delivery scheduling system based on time series analysis, resulting in a 15% increase in user engagement during peak hours.
