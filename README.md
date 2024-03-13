@@ -45,6 +45,8 @@
 - **Enhancing Software Quality:** Defect Prediction with Bidirectional LSTM and Oversampling Techniques
 - **Customizable Data Processing with Dynamic MapReduce Engine**
 - **Exploring Neuro-structural Dynamics:** Age-Related Changes and Alzheimer's Disease Patterns - Statistics
+- **SecureGuard-Enhancing-Financial-Safety-with-Logistic-Regression-based-Credit-Card-Fraud-Detection**
+- **JPM-ETF-Explorer-Unraveling-Trends-and-Performance-in-JP-Morgan-s-Exchange-Traded-Funds** 
 
 ## Professional Development
 - Enhanced understanding of Generative AI for public sector applications through hands-on labs and demos at **"Public
