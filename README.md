@@ -19,28 +19,7 @@
 - **Certifications:**
   - Professional Certification - Data Science, Database Management Essentials, Artificial Intelligence, Mathematical Thinking in CS, International Leader and Organizational Behavior, Software Development Processes and Methodologies, Internet of Things and Embedded Systems, The Bits and Bytes of Computer Networking
 
-## Experience
-### Data Science Intern - 
-- Spearheaded Retention and Churn Analysis through cohort analysis charts, providing actionable insights into user behavior over time. Managed data on new users, returning users, and churned users.
-- Executed A/B testing initiatives to optimize app interface design. Performed statistical analyses to determine the significance of observed differences in average user time spent on the app.
-- Utilized machine learning algorithms to analyze user behavior and preferences, employed RandomizedPCA for efficient approximation of principal components, and applied kernel transformations to uncover non-linear boundaries, resulting in a 10% increase in user engagement and a 15% improvement in retention rates.
-
-### Time Series Analyst Intern - 
-- Implemented a dynamic content delivery scheduling system based on time series analysis, resulting in a 15% increase in user engagement during peak hours.
-- Implemented ARIMA models to enhance the robustness of the content delivery scheduling system.
-
-## Research
-### "AI Enhanced Malnutrition Monitoring & Prediction"
-- Presented research findings at the NCRIMA on Artificial Intelligence, Data Science 2023
-- Engineered data integration pipelines, amalgamating health records, dietary habits, and socio-economic indicators.
-- Utilized advanced machine learning algorithms and implemented neural network frameworks to develop models for real-time monitoring and prediction of malnutrition in diverse populations.
-- Engineered models capable of processing diverse data types, including numerical health metrics and textual dietary information.
-- Incorporated computer vision techniques and integrated voice agents, enhancing the application's capabilities for a comprehensive and hands-free enhanced health assessment.
-- Optimized edge deployment for smartphones using Raspberry Pi. Leveraged Raspberry Pi's computing capabilities to enhance machine learning model efficiency, ensuring optimal performance.
-- Applied edge computing optimization techniques to support the application's scalability on Raspberry Pi.
-
 ## Projects
-- **Algorithmic Financial Forecasting:** Unraveling Market Dynamics through Advanced LSTM
 - **Social Harmony Recommender:** A Recommendation System for Social Connections on Digital Platforms
 - **Enhancing Software Quality:** Defect Prediction with Bidirectional LSTM and Oversampling Techniques
 - **Customizable Data Processing with Dynamic MapReduce Engine**
